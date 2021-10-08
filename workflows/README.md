@@ -1,3 +1,4 @@
-# CovBot
-This is a dialogflow covid-19 chabot with webhook flask python.
-It is integrated with using Github, Heroku and Dialogflow.
+# Actions
+1. Go to Actions.
+2. Press New workflows.
+3. Make your yaml file.
